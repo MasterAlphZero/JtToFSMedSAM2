@@ -1,0 +1,3 @@
+model_cfg,label_id,tp,fp,fn,dice
+sam2_hiera_t.yaml,1,59332,9061,17933,0.8146754726825852
+sam2_hiera_s.yaml,1,74618,11743,2647,0.9120555412953931
